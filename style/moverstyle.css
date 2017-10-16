@@ -1,0 +1,290 @@
+.swiper-container .swiper-wrapper .swiper-slide .bg1 {
+  background-image: url(../images/bd9d7d45-a74a-4d31-820b-76264f8d1a58.jpg);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+.swiper-container .swiper-wrapper .swiper-slide .bg1 .im1 {
+  width: 71px;
+  position: absolute;
+  left: 30%;
+  top: 120px;
+}
+.swiper-container .swiper-wrapper .swiper-slide .bg1 .im2 {
+  width: 108px;
+  position: absolute;
+  right: 12%;
+  bottom: 40px;
+}
+.swiper-container .swiper-wrapper .swiper-slide .bg1 .im3 {
+  width: 36px;
+  position: absolute;
+  left: 10%;
+  bottom: 50px;
+}
+.swiper-container .swiper-wrapper .swiper-slide .bg2 {
+  background-image: url(../images/ca27f968-d65c-41b9-ba26-9b50e4debf0e.jpg);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+.swiper-container .swiper-wrapper .swiper-slide .bg2 .im1 {
+  width: 48px;
+  position: absolute;
+  left: 12%;
+  top: 10%;
+}
+.swiper-container .swiper-wrapper .swiper-slide .bg2 .im2 {
+  width: 73px;
+  position: absolute;
+  left: 3%;
+  bottom: 7%;
+}
+.swiper-container .swiper-wrapper .swiper-slide .bg2 .im3 {
+  width: 125px;
+  position: absolute;
+  left: 46%;
+  top: 32%;
+}
+.swiper-container .swiper-wrapper .swiper-slide .bg3 {
+  background-image: url(../images/adee8019-7680-4338-af43-2076acb7ca25.jpg);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+.swiper-container .swiper-wrapper .swiper-slide .bg3 .im1 {
+  width: 61px;
+  position: absolute;
+  right: 56%;
+  top: 20%;
+}
+.swiper-container .swiper-wrapper .swiper-slide .bg3 .im2 {
+  width: 75px;
+  position: absolute;
+  left: 10%;
+  bottom: 50px;
+}
+.swiper-container .swiper-wrapper .swiper-slide .bg3 .im3 {
+  width: 124px;
+  position: absolute;
+  left: 50%;
+  top: 10%;
+}
+.swiper-container .swiper-wrapper .swiper-slide .bg4 {
+  background-image: url(../images/33ff29c7-eab8-49c8-9688-d93c75a0940c.jpg);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+.swiper-container .swiper-wrapper .swiper-slide .bg4 .im1 {
+  width: 61px;
+  position: absolute;
+  right: 16%;
+  bottom: 6%;
+}
+.swiper-container .swiper-wrapper .swiper-slide .bg4 .im2 {
+  width: 90px;
+  position: absolute;
+  left: 58%;
+  top: 15%;
+}
+.swiper-container .swiper-wrapper .swiper-slide .bg4 .im3 {
+  width: 124px;
+  position: absolute;
+  right: 50%;
+  top: 2%;
+}
+.swiper-container .swiper-wrapper .swiper-slide .bg5 {
+  background-image: url(../images/2c4279ce-f2e4-4cc3-8d1a-f4fcdec772e6.jpg);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+.swiper-container .swiper-wrapper .swiper-slide .bg5 .im1 {
+  width: 60px;
+  position: absolute;
+  left: 35%;
+  top: 24%;
+}
+.swiper-container .swiper-wrapper .swiper-slide .bg5 .im2 {
+  width: 65px;
+  position: absolute;
+  left: 63%;
+  top: 0;
+}
+.swiper-container .swiper-wrapper .swiper-slide .bg5 .im3 {
+  width: 108px;
+  position: absolute;
+  left: 6%;
+  top: 100px;
+}
+#menu {
+  display: none;
+}
+#m_menu {
+  display: block;
+  width: 100%;
+  height: 50px;
+  background-color: rgba(255, 255, 255, 0.78);
+  box-shadow: 0 1px 0 0 rgba(0, 0, 0, 0.2);
+  position: fixed;
+  z-index: 99;
+  top: 0;
+  float: left;
+}
+#m_menu .m_logo {
+  width: 108px;
+  height: 40px;
+  margin: 8px 0 0 8px;
+  float: left;
+}
+#m_menu .m_logo a {
+  display: block;
+}
+#m_menu .m_logo a img {
+  width: 108px;
+}
+#m_menu .m_caidan {
+  width: 50px;
+  height: 50px;
+  float: right;
+  background: url(../images/m_1.png) no-repeat center center;
+  background-size: 30% ;
+  cursor: pointer;
+  overflow: hidden;
+}
+#m_menu .m_cds {
+  display: none;
+  width: 100%;
+  margin: 0;
+  position: absolute;
+  top: 50px;
+}
+#m_menu .m_cds div {
+  float: left;
+  height: 117px;
+  width: 16.66%;
+  background-color: #fff;
+  background-color: rgba(255, 255, 255, 0.78);
+  box-shadow: 1px 0 0 0 rgba(0, 0, 0, 0.2);
+}
+#m_menu .m_cds div a {
+  display: block;
+  text-decoration: none;
+  text-align: center;
+  padding: 14px 0;
+}
+#m_menu .m_cds div a i {
+  display: block;
+  width: 40px;
+  height: 56px;
+  margin: 0 auto 13px;
+  background-repeat: no-repeat;
+  background-size: 135px;
+}
+#m_menu .m_cds div a b {
+  color: #444;
+  font-size: 12px;
+  line-height: 20px;
+}
+#m_menu .m_cds .m_cd1 i {
+  background-image: url(../images/m_ss1.png);
+}
+#m_menu .m_cds .m_cd2 i {
+  background-image: url(../images/m_ss2.png);
+}
+#m_menu .m_cds .m_cd3 i {
+  background-image: url(../images/m_ss6.png);
+}
+#m_menu .m_cds .m_cd4 i {
+  background-image: url(../images/m_ss3.png);
+}
+#m_menu .m_cds .m_cd5 i {
+  background-image: url(../images/m_ss4.png);
+}
+#m_menu .m_cds .m_cd6 i {
+  background-image: url(../images/m_ss5.png);
+}
+.swiper-container .swiper-wrapper .swiper-slide .footer .ft1 {
+  padding: 12px 0;
+}
+.swiper-container .swiper-wrapper .swiper-slide .footer .ft1 p img {
+  width: 12%;
+}
+.swiper-container .swiper-wrapper .swiper-slide .footer .ft2 {
+  padding-bottom: 18px;
+}
+#pccontent .introduce {
+  width: 100%;
+}
+#pccontent .introduce h3 {
+  text-align: center;
+  font-size: 36px;
+  font-weight: bold;
+  line-height: 36px;
+  margin: 0 0 4px 0;
+  letter-spacing: 0px;
+}
+#pccontent .introduce span {
+  font-size: 14px;
+  margin-bottom: 28px;
+}
+#pccontent .introduce p {
+  font-size: 13px;
+  line-height: 30px;
+  margin: 0px 0 0 0;
+}
+#pccontent .niunai li {
+  width: 139px;
+  height: 328px;
+  display: inline-block;
+  position: relative;
+  background: url(../images/yant1.png) no-repeat top center;
+  background-size: 100% auto;
+  transition: all 0.3s ease-in-out 0s;
+  margin: 20px 6px;
+}
+#pccontent .niunai li h3 {
+  font-size: 18px;
+  position: relative;
+  top: 25%;
+}
+#pccontent .niunai li .tpz {
+  position: relative;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}
+#pccontent .niunai li .tpz img {
+  position: absolute;
+  left: 20px;
+  bottom: 10px;
+  width: 100px;
+  height: auto;
+}
+#pccontent .niunai li:hover {
+  background: url(../images/yant2.png) no-repeat top center;
+  background-size: 100% auto;
+}
+#pcfooter .erweima {
+  padding: 12px 0;
+}
+#pcfooter .erweima p img {
+  width: 12%;
+}
+#pcfooter .ljies .ljie {
+  padding: 0 1px 18px;
+}
+#products #procontent {
+  width: 90%;
+}
+#products #procontent .warpper1 {
+  margin-top: 190px;
+  width: 100%;
+}
+#products #procontent .warpper1 ul li {
+  width: 48%;
+}
+#products #procontent .warpper2 {
+  position: absolute;
+}
+#store .box_store ul {
+  width: 70%;
+  margin: 100px auto 100px;
+  float: none;
+}
